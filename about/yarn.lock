@@ -9875,6 +9875,11 @@ simple-swizzle@^0.2.2:
   dependencies:
     is-arrayish "^0.3.1"
 
+single-spa-react@^4.2.0:
+  version "4.2.0"
+  resolved "https://enzuo-npm.pkg.coding.net/blog/public/__tarballs/single-spa-react/4.2.0/__path/npm/single-spa-react/-/single-spa-react-4.2.0/d79c8043a78bab3db908834ce15e2a9c3918da45.tgz#d79c8043a78bab3db908834ce15e2a9c3918da45"
+  integrity sha512-4TO0vusg15mMIpYoKVYX6xbCuWpCkaLIxpYR/kpb9LTd5p49hQcUqpY7U+xyjdUoqo7pYkyUL9hnazfbRAwSAQ==
+
 single-spa@^5.9.3:
   version "5.9.3"
   resolved "https://enzuo-npm.pkg.coding.net/blog/public/single-spa/-/single-spa-5.9.3/2d151cbb3b273629a5b27b30a3b8ca847dcba4c5.tgz#2d151cbb3b273629a5b27b30a3b8ca847dcba4c5"
